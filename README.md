@@ -31,8 +31,6 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 8. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
-https://arxiv.org/abs/2301.03797
-
 
 ## 2. Security Papers
 
