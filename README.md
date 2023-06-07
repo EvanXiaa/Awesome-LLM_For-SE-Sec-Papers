@@ -21,12 +21,25 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 3. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
 
+4. **Automated Program Repair in the Era of Large Pre-trained Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
 
+5. **Automated Repair of Programs from Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2205.10583)
+
+6. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
+
+7. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
+
+8. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
+
+https://arxiv.org/abs/2301.03797
 
 
 ## 2. Security Papers
 
 1. **GPThreats-3: Is Automatic Malware Generation a Threat?.** WOOT 2023. [[pdf]](https://wootconference.org/papers/woot23-paper8.pdf) [[slides]](https://wootconference.org/slides/8-GPThreats-3_Is_Automatic_Malware_Generation_a_Threat.pdf) 
+
+2. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
+
 
 ## Contributing
 
