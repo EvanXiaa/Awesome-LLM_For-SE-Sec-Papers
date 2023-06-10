@@ -11,6 +11,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
   - [Contents:](#contents)
      - [1. SE Papers](#1-se-papers)
      - [2. Security Papers](#2-security-papers)
+     - [3. Arxiv Papers](#3-arxiv-papers)
   - [Contributing](#contributing)
   - [Licenses](#licenses)
 
@@ -38,6 +39,13 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 2. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
 
+## 2. Arxiv Papers
+
+1. **Large Language Models of Code Fail at Completing Code with Potential Bugs** arxiv. [[pdf]](https://arxiv.org/pdf/2306.03438.pdf) 
+
+2. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+
+3. **Is Model Attention Aligned with Human Attention? An Empirical Study on Large Language Models for Code Generation** arxiv. [[pdf]](https://arxiv.org/pdf/2306.01220.pdf) 
 
 ## Contributing
 
