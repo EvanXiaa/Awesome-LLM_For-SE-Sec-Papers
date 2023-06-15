@@ -39,7 +39,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 2. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
 
-3. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** USENIX Security 2023[[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
+3. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
    
 ## 3. Arxiv Papers
 
