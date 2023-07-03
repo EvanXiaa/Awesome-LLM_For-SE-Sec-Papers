@@ -46,7 +46,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 ### 1.5 Code Summary
-1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
+1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary, Retrieval-based Prompting` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
 
 ## 2. Security Papers
 
@@ -66,7 +66,9 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 2. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
 
-3. **Is Model Attention Aligned with Human Attention? An Empirical Study on Large Language Models for Code Generation.** arxiv. [[pdf]](https://arxiv.org/pdf/2306.01220.pdf) 
+3. **Is Model Attention Aligned with Human Attention? An Empirical Study on Large Language Models for Code Generation.** arxiv. [[pdf]](https://arxiv.org/pdf/2306.01220.pdf)
+
+4. **RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot.** arxiv. [[pdf]](https://arxiv.org/pdf/2306.17077.pdf)
 
 ## Contributing
 
