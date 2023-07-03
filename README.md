@@ -26,41 +26,39 @@ A curated list of Large Language Model for Software Engineering and Security pap
 ## 1. SE Papers
     
 ### 1.1 Software Testing
-1. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
+1. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** `Fuzzing, Deep Learning Library Testing` ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
 
-2. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
+2. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** `Search-based Testing` ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
 
-3. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
+3. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** `Unit Test Generation, Bug Reproduction` ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
 
 ### 1.2 Automated Program Repair
 
-1. **Automated Program Repair in the Era of Large Pre-trained Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
+1. **Automated Program Repair in the Era of Large Pre-trained Language Models.** `LLM for APR` ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
 
-2. **Automated Repair of Programs from Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2205.10583)
+2. **Automated Repair of Programs from Large Language Models.** `APR for LLM-Generated Program` ICSE 2023. [[pdf]](https://arxiv.org/abs/2205.10583)
 
 ### 1.3 Automated Bug Replay
 
-1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
+1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** `S2R Identification, UI Encoding` ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
 
 ### 1.4 Root Cause Analysis
-1. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
+1. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 ### 1.5 Code Summary
-1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
-
-
+1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
 
 ## 2. Security Papers
 
 ### 2.1 Malware
-1. **GPThreats-3: Is Automatic Malware Generation a Threat?.** WOOT 2023. [[pdf]](https://wootconference.org/papers/woot23-paper8.pdf) [[slides]](https://wootconference.org/slides/8-GPThreats-3_Is_Automatic_Malware_Generation_a_Threat.pdf) 
+1. **GPThreats-3: Is Automatic Malware Generation a Threat?** `Malware Generation` WOOT 2023. [[pdf]](https://wootconference.org/papers/woot23-paper8.pdf) [[slides]](https://wootconference.org/slides/8-GPThreats-3_Is_Automatic_Malware_Generation_a_Threat.pdf) 
 
 ### 2.2 Vulnerability Repair
 
-1. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
+1. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** `Vulnerability Repair` Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
 
 ### 2.3 Vulnerability Analysis
-1. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
+1. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** `Code Defect Analysis` USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
    
 ## 3. Arxiv Papers
 
