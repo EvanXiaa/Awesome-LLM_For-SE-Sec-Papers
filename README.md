@@ -10,36 +10,57 @@ A curated list of Large Language Model for Software Engineering and Security pap
 - [Awesome-LLM-for-SE&Sec-Papers](#awesome-llm-for-se&sec-papers)
   - [Contents:](#contents)
      - [1. SE Papers](#1-se-papers)
+          - [1.1 Software Testing](#1.1-software-testing)
+          - [1.2 Automated Program Repair](#1.2-automated-program-repair)
+          - [1.3 Automated Bug Replay](#1.3-automated-bug-replay)
+          - [1.4 Root Cause Analysis](#1.4-root-cause-analysis)
+          - [1.5 Code Summary](#1.5-code-summary)
      - [2. Security Papers](#2-security-papers)
+          - [2.1 Malware](#2.1-malware)
+          - [2.2 Vulnerability Repair](#2.2-vulnerability-repair)
+          - [2.3 Vulnerability Analysis](#2.3-vulnerability-analysis)
      - [3. Arxiv Papers](#3-arxiv-papers)
   - [Contributing](#contributing)
   - [Licenses](#licenses)
 
 ## 1. SE Papers
+
+### 1.1 Software Testing
+1. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
+
+2. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
+
+3. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
+
+### 1.2 Automated Program Repair
+
+1. **Automated Program Repair in the Era of Large Pre-trained Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
+
+2. **Automated Repair of Programs from Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2205.10583)
+
+### 1.3 Automated Bug Replay
+
+1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
+
+### 1.4 Root Cause Analysis
+1. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
+
+### 1.5 Code Summary
 1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
 
-2. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
-
-3. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
-
-4. **Automated Program Repair in the Era of Large Pre-trained Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
-
-5. **Automated Repair of Programs from Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2205.10583)
-
-6. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
-
-7. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
-
-8. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 
 ## 2. Security Papers
 
+### 2.1 Malware
 1. **GPThreats-3: Is Automatic Malware Generation a Threat?.** WOOT 2023. [[pdf]](https://wootconference.org/papers/woot23-paper8.pdf) [[slides]](https://wootconference.org/slides/8-GPThreats-3_Is_Automatic_Malware_Generation_a_Threat.pdf) 
 
-2. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
+### 2.2 Vulnerability Repair
 
-3. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
+1. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
+
+### 2.3 Vulnerability Analysis
+1. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
    
 ## 3. Arxiv Papers
 
