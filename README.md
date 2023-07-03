@@ -10,21 +10,21 @@ A curated list of Large Language Model for Software Engineering and Security pap
 - [Awesome-LLM-for-SE&Sec-Papers](#awesome-llm-for-se&sec-papers)
   - [Contents:](#contents)
      - [1. SE Papers](#1-se-papers)
-          - [1.1 Software Testing](#1.1-software-testing)
-          - [1.2 Automated Program Repair](#1.2-automated-program-repair)
-          - [1.3 Automated Bug Replay](#1.3-automated-bug-replay)
-          - [1.4 Root Cause Analysis](#1.4-root-cause-analysis)
-          - [1.5 Code Summary](#1.5-code-summary)
+          - [1.1 Software Testing](#11-software-testing)
+          - [1.2 Automated Program Repair](#12-automated-program-repair)
+          - [1.3 Automated Bug Replay](#13-automated-bug-replay)
+          - [1.4 Root Cause Analysis](#14-root-cause-analysis)
+          - [1.5 Code Summary](#15-code-summary)
      - [2. Security Papers](#2-security-papers)
-          - [2.1 Malware](#2.1-malware)
-          - [2.2 Vulnerability Repair](#2.2-vulnerability-repair)
-          - [2.3 Vulnerability Analysis](#2.3-vulnerability-analysis)
+          - [2.1 Malware](#21-malware)
+          - [2.2 Vulnerability Repair](#22-vulnerability-repair)
+          - [2.3 Vulnerability Analysis](#23-vulnerability-analysis)
      - [3. Arxiv Papers](#3-arxiv-papers)
   - [Contributing](#contributing)
   - [Licenses](#licenses)
 
 ## 1. SE Papers
-
+    
 ### 1.1 Software Testing
 1. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
 
