@@ -32,6 +32,9 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 3. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** `Unit Test Generation, Bug Reproduction` ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
 
+4. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
+
+   
 ### 1.2 Automated Program Repair
 
 1. **Automated Program Repair in the Era of Large Pre-trained Language Models.** `LLM for APR` ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
