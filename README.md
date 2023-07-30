@@ -15,7 +15,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
           - [1.3 Automated Bug Replay](#13-automated-bug-replay)
           - [1.4 Root Cause Analysis](#14-root-cause-analysis)
           - [1.5 Code Summary](#15-code-summary)
-          - [1.6 Code Quality](#15-code-quality)
+          - [1.6 Code Quality](#16-code-quality)
      - [2. Security Papers](#2-security-papers)
           - [2.1 Malware](#21-malware)
           - [2.2 Vulnerability Repair](#22-vulnerability-repair)
@@ -36,7 +36,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 4. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
 
-5. **Understanding Large Language Model Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [pdf] (https://arxiv.org/pdf/2307.12469.pdf) 
+5. **Understanding Large Language Model Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [[pdf]](https://arxiv.org/pdf/2307.12469.pdf) 
 
    
 ### 1.2 Automated Program Repair
