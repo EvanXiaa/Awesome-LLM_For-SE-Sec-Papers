@@ -37,7 +37,8 @@ A curated list of Large Language Model for Software Engineering and Security pap
 4. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
 
 5. **Understanding Large Language Model Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [[pdf]](https://arxiv.org/pdf/2307.12469.pdf)
-6. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2024. [[pdf]] 
+6. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2024. [[pdf]]()
+7. **Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting.** ASE 2024. [[pdf]](https://arxiv.org/pdf/2304.11686)
 
    
 ### 1.2 Automated Program Repair
