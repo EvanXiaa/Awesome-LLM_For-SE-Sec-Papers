@@ -86,7 +86,12 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 2.4 Vulnerability Detection
 
-1. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+1. **The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models** `Code Defect Analysis` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+
+2. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** `Program analysis supported by LLM` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+
+### 2.5 Fuzzing
+1. **Large Language Model guided Protocol Fuzzing** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
 
 ## Contributing
 
