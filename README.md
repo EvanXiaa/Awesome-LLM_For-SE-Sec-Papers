@@ -21,7 +21,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
           - [2.2 Vulnerability Repair](#22-vulnerability-repair)
           - [2.3 Vulnerability Analysis](#23-vulnerability-analysis)
           - [2.4 Vulnerability Detection](#24-vulnerability-detection)
-     - [3. Arxiv Papers](#3-arxiv-papers)
+          - [2.5 Fuzzing](#25-fuzzing)
   - [Contributing](#contributing)
   - [Licenses](#licenses)
 
@@ -86,12 +86,12 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 2.4 Vulnerability Detection
 
-1. **The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models** `Code Defect Analysis` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+1. **The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models.** `Code Defect Analysis` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
 
 2. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** `Program analysis supported by LLM` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
 
 ### 2.5 Fuzzing
-1. **Large Language Model guided Protocol Fuzzing** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
+1. **Large Language Model guided Protocol Fuzzing.** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
 
 ## Contributing
 
