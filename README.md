@@ -91,7 +91,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 This list is mainly maintained by Yifan Xia from [NESA Lab](https://nesa.zju.edu.cn/index.html).
 
-We are very much welcome contributors for contributing this repository!
+We sincerely welcome contributors for contributing to this repository!
 
 **Markdown format**
 ```markdown
