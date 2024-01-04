@@ -16,6 +16,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
           - [1.4 Root Cause Analysis](#14-root-cause-analysis)
           - [1.5 Code Summary](#15-code-summary)
           - [1.6 Code Quality](#16-code-quality)
+          - [1.7 Static Analysis](#17-static-analysis)
      - [2. Security Papers](#2-security-papers)
           - [2.1 Malware](#21-malware)
           - [2.2 Vulnerability Repair](#22-vulnerability-repair)
@@ -64,7 +65,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 1.7 Static Analysis
 
-1. **Assisting Static Analysis with Large Language Models: A ChatGPT Experiment** FSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3613078)
+1. **Assisting Static Analysis with Large Language Models: A ChatGPT Experiment.** FSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3613078)
 
 ## 2. Security Papers
 
