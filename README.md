@@ -35,9 +35,9 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2024. [[pdf]]()
 2. **Enhancing Exploratory Testing by Large Language Model and Knowledge Graph.** ICSE 2024. [[pdf]]()
 3. **Fuzz4All: Universal Fuzzing with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2308.04748)
-4. **Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries.** ICSE 2024.[[pdf]]()
-5. **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions** ICSE 2024.[[pdf]]()
-6. **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model** ICSE 2024.[[pdf]]()
+4. **Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries.** ICSE 2024. [[pdf]]()
+5. **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** ICSE 2024. [[pdf]]()
+6. **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** ICSE 2024. [[pdf]]()
 7. **Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting.** ASE 2024. [[pdf]](https://arxiv.org/pdf/2304.11686)
 8. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** `Fuzzing, Deep Learning Library Testing` ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
 9. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** `Search-based Testing` ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
@@ -57,8 +57,8 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** `S2R Identification, UI Encoding` ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
 
 ### 1.4 Root Cause Analysis and Fault Management
-1. **Large Language Models for Test-Free Fault Localization** ICSE 2024. [[pdf]]()
-2. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models** ICSE 2024. [[pdf]]()
+1. **Large Language Models for Test-Free Fault Localization.** ICSE 2024. [[pdf]]()
+2. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]]()
 3. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 ### 1.5 Code Summary
