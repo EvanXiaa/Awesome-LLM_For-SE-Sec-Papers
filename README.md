@@ -18,6 +18,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
           - [1.6 Code Quality Assurance](#16-code-quality-assurance)
           - [1.7 Static Analysis](#17-static-analysis)
           - [1.8 Code Generation](#18-code-generation)
+          - [1.9 Log Analysis](#19-log-analysis)
      - [2. Security Papers](#2-security-papers)
           - [2.1 Malware](#21-malware)
           - [2.2 Vulnerability Repair](#22-vulnerability-repair)
