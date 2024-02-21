@@ -57,7 +57,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** `S2R Identification, UI Encoding` ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
 
 ### 1.4 Root Cause Analysis and Fault Management
-1. **Large Language Models for Test-Free Fault Localization.** ICSE 2024. [[pdf]]()
+1. **Large Language Models for Test-Free Fault Localization.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2310.01726)
 2. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]]()
 3. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
