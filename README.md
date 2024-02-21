@@ -57,9 +57,8 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** `S2R Identification, UI Encoding` ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
 
 ### 1.4 Root Cause Analysis and Fault Management
-1. **Large Language Models for Test-Free Fault Localization.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2310.01726)
-2. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]]()
-3. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
+1. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]]()
+2. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 ### 1.5 Code Summary
 1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary, Retrieval-based Prompting` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
@@ -103,8 +102,10 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 2.4 Vulnerability Detection
 
-1. **The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models.** `Code Defect Analysis` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
-2. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** `Program analysis supported by LLM` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+1. **Large Language Models for Test-Free Fault Localization.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2310.01726)
+2. **The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models.** `Code Defect Analysis` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf) 
+3. **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** `Program analysis supported by LLM` arxiv. [[pdf]](https://arxiv.org/pdf/2306.01754.pdf)
+   
 
 ### 2.5 Fuzzing
 1. **Large Language Model guided Protocol Fuzzing.** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
