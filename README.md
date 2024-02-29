@@ -58,7 +58,8 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 1.4 Root Cause Analysis and Fault Management
 1. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]]()
-2. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
+2. **Automatic Root Cause Analysis via Large Language Models for Cloud Incidents** Eurosys 2024. [[pdf]](https://arxiv.org/pdf/2305.15778.pdf) 
+3. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 ### 1.5 Code Summary
 1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary, Retrieval-based Prompting` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
