@@ -99,7 +99,9 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **Examining Zero-Shot Vulnerability Repair with Large Language Models.** `Vulnerability Repair` Oakland 2023. [[pdf]](https://arxiv.org/abs/2112.02125)
 
 ### 2.3 Vulnerability Analysis
-1. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** `Code Defect Analysis` USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
+
+1. **LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities (Yet?):A Comprehensive Evaluation, Framework, and Benchmarks.** Oakland 2024. [[pdf]](https://arxiv.org/pdf/2312.12575)
+2.  **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.** `Code Defect Analysis` USENIX Security 2023. [[pdf]](https://www.usenix.org/system/files/sec23fall-prepub-353-sandoval.pdf)
 
 ### 2.4 Vulnerability Detection
 
