@@ -111,8 +111,9 @@ A curated list of Large Language Model for Software Engineering and Security pap
    
 
 ### 2.5 Fuzzing
-1. **Large Language Model guided Protocol Fuzzing.** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
-2. **KernelGPT: Enhanced Kernel Fuzzing via Large Language Models.** arxiv. [[pdf]](https://arxiv.org/pdf/2401.00563.pdf)
+1. **LLMIF: Augmented Large Language Model for Fuzzing IoT Devices.** Oakland 2024. [[pdf]](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a196/1WPcYnhN15u)
+2. **Large Language Model guided Protocol Fuzzing.** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
+3. **KernelGPT: Enhanced Kernel Fuzzing via Large Language Models.** arxiv. [[pdf]](https://arxiv.org/pdf/2401.00563.pdf)
 
 ## Contributing
 
