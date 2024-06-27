@@ -115,6 +115,10 @@ A curated list of Large Language Model for Software Engineering and Security pap
 2. **Large Language Model guided Protocol Fuzzing.** NDSS 2024. [[pdf]](https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf)
 3. **KernelGPT: Enhanced Kernel Fuzzing via Large Language Models.** arxiv. [[pdf]](https://arxiv.org/pdf/2401.00563.pdf)
 
+### 2.6 Cyber Attack
+1. **From Chatbots to Phishbots?: Phishing Scam Generation in Commercial Large Language Models.** Oakland 2024. [[pdf]](https://arxiv.org/pdf/2310.19181v2)
+
+   
 ## Contributing
 
 This list is mainly maintained by Yifan Xia from [NESA Lab](https://nesa.zju.edu.cn/index.html).
