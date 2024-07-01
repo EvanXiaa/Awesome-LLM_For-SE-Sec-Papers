@@ -32,18 +32,19 @@ A curated list of Large Language Model for Software Engineering and Security pap
     
 ### 1.1 Software Testing
 
-1. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2024. [[pdf]]()
-2. **Enhancing Exploratory Testing by Large Language Model and Knowledge Graph.** ICSE 2024. [[pdf]]()
+1. **Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2304.06815)
+2. **Enhancing Exploratory Testing by Large Language Model and Knowledge Graph.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3639157)
 3. **Fuzz4All: Universal Fuzzing with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2308.04748)
-4. **Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries.** ICSE 2024. [[pdf]]()
-5. **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** ICSE 2024. [[pdf]]()
-6. **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** ICSE 2024. [[pdf]]()
-7. **Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting.** ASE 2024. [[pdf]](https://arxiv.org/pdf/2304.11686)
-8. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** `Fuzzing, Deep Learning Library Testing` ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
-9. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** `Search-based Testing` ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
-10. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** `Unit Test Generation, Bug Reproduction` ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
-11. **Understanding Large Language Model-Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [[pdf]](https://arxiv.org/pdf/2307.12469.pdf)
-12. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
+4. **Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3597503.3623343)
+5. **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3639180)
+6. **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3597503.3639118)
+7. **Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting.** ASE 2023. [[pdf]](https://arxiv.org/pdf/2304.11686)
+8. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2023. [[pdf]](https://ieeexplore.ieee.org/document/10298442)
+9. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** `Fuzzing, Deep Learning Library Testing` ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
+10. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** `Search-based Testing` ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
+11. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** `Unit Test Generation, Bug Reproduction` ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
+12. **Understanding Large Language Model-Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [[pdf]](https://arxiv.org/pdf/2307.12469.pdf)
+13. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
 
    
 ### 1.2 Automated Program Repair
