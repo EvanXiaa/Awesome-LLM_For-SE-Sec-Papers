@@ -49,9 +49,10 @@ A curated list of Large Language Model for Software Engineering and Security pap
    
 ### 1.2 Automated Program Repair
 
-1. **Automated Program Repair in the Era of Large Pre-trained Language Models.** `LLM for APR` ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
-2. **An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair.** ASE 2023 [[pdf]]()[[slides]](https://conf.researchr.org/details/ase-2023/ase-2023-papers/98/An-Empirical-Study-on-Fine-tuning-Large-Language-Models-of-Code-for-Automated-Program)
-3. **Conversational Automated Program Repair.**  arxiv. [[pdf]](https://arxiv.org/abs/2304.00385)
+1. **Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2306.01394)
+2. **Automated Program Repair in the Era of Large Pre-trained Language Models.** `LLM for APR` ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
+3. **An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair.** ASE 2023 [[pdf]]()[[slides]](https://conf.researchr.org/details/ase-2023/ase-2023-papers/98/An-Empirical-Study-on-Fine-tuning-Large-Language-Models-of-Code-for-Automated-Program)
+4. **Conversational Automated Program Repair.**  arxiv. [[pdf]](https://arxiv.org/abs/2304.00385)
 
 ### 1.3 Automated Bug Replay
 
