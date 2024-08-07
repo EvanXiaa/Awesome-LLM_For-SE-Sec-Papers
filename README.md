@@ -79,8 +79,9 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 1.7 Static Analysis
 
-1. **Demystifying and Detecting Misuses of Deep Learning APIs** ICSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3597503.3639177)
-2. **Assisting Static Analysis with Large Language Models: A ChatGPT Experiment.** FSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3613078)
+1. **A Learning-Based Approach to Static Program Slicing** OOPSLA 2024. [[pdf]](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2024.pdf)
+2. **Demystifying and Detecting Misuses of Deep Learning APIs** ICSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3597503.3639177)
+3. **Assisting Static Analysis with Large Language Models: A ChatGPT Experiment.** FSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3613078)
 
 ### 1.8 Code Generation
 
