@@ -67,7 +67,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary, Retrieval-based Prompting` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
 2. **Using an LLM to Help With Code Understanding** ICSE 2024. [[pdf]]()
 
-### 1.6 Code Quality Assurance
+### 1.6 Code Quality Assuranc
 
 1. **Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2308.03109)
 2. **Traces of Memorisation in Large Language Models for Code.** ICSE 2024. [[pdf]]()
@@ -83,6 +83,7 @@ A curated list of Large Language Model for Software Engineering and Security pap
 2. **Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach.** OOPSLA 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3649828)
 3. **Demystifying and Detecting Misuses of Deep Learning APIs.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3597503.3639177)
 4. **Assisting Static Analysis with Large Language Models: A ChatGPT Experiment.** FSE 2024. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3611643.3613078)
+5. **Generative Type Inference for Python.**  ASE 2023. [[pdf]](https://arxiv.org/pdf/2307.09163)
 
 ### 1.8 Code Generation
 
