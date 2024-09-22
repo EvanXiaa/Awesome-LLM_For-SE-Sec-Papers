@@ -19,6 +19,8 @@ A curated list of Large Language Model for Software Engineering and Security pap
           - [1.7 Static Analysis](#17-static-analysis)
           - [1.8 Code Generation](#18-code-generation)
           - [1.9 Log Analysis](#19-log-analysis)
+          - [1.10 Formalization](#110-formalization)
+          - [1.11 Maintenance](#111-maintenance)
      - [2. Security Papers](#2-security-papers)
           - [2.1 Malware](#21-malware)
           - [2.2 Vulnerability Repair](#22-vulnerability-repair)
@@ -28,46 +30,49 @@ A curated list of Large Language Model for Software Engineering and Security pap
   - [Contributing](#contributing)
   - [Licenses](#licenses)
 
-## 1. SE Papers
+## 1. SE/PL Papers
     
 ### 1.1 Software Testing
 
-1. **Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2304.06815)
-2. **Enhancing Exploratory Testing by Large Language Model and Knowledge Graph.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3639157)
-3. **Fuzz4All: Universal Fuzzing with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2308.04748)
-4. **Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3597503.3623343)
-5. **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3639180)
-6. **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3597503.3639118)
-7. **Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting.** ASE 2023. [[pdf]](https://arxiv.org/pdf/2304.11686)
-8. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2023. [[pdf]](https://ieeexplore.ieee.org/document/10298442)
-9. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** `Fuzzing, Deep Learning Library Testing` ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
-10. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** `Search-based Testing` ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
-11. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** `Unit Test Generation, Bug Reproduction` ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
-12. **Understanding Large Language Model-Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [[pdf]](https://arxiv.org/pdf/2307.12469.pdf)
-13. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
+1. **Code-Aware Prompting: A study of Coverage guided Test Generation in Regression Setting using LLM** FSE 2024. [[pdf]](https://arxiv.org/abs/2402.00097)
+2. **Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2304.06815)
+3. **Enhancing Exploratory Testing by Large Language Model and Knowledge Graph.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3639157)
+4. **Fuzz4All: Universal Fuzzing with Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2308.04748)
+5. **Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3597503.3623343)
+6. **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3639180)
+7. **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model.** ICSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3597503.3639118)
+8. **Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting.** ASE 2023. [[pdf]](https://arxiv.org/pdf/2304.11686)
+9. **SMT Solver Validation Empowered by Large Pre-trained Language Models.** ASE 2023. [[pdf]](https://ieeexplore.ieee.org/document/10298442)
+10. **Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.** `Fuzzing, Deep Learning Library Testing` ISSTA 2023. [[pdf]](https://arxiv.org/abs/2212.14834)
+11. **CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.** `Search-based Testing` ICSE 2023. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf)
+12. **Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.** `Unit Test Generation, Bug Reproduction` ICSE 2023. [[pdf]](https://arxiv.org/abs/2209.11515)
+13. **Understanding Large Language Model-Based Fuzz Driver Generation.**  `Fuzzing Driver Generation` arxiv. [[pdf]](https://arxiv.org/pdf/2307.12469.pdf)
+14. **Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT.**  `Fuzzing, Deep Learning Library Testing` arxiv. [[pdf]](https://arxiv.org/pdf/2304.02014v1.pdf)
 
    
 ### 1.2 Automated Program Repair
 
-1. **Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2306.01394)
-2. **Automated Program Repair in the Era of Large Pre-trained Language Models.** `LLM for APR` ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
-3. **An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair.** ASE 2023 [[pdf]]()[[slides]](https://conf.researchr.org/details/ase-2023/ase-2023-papers/98/An-Empirical-Study-on-Fine-tuning-Large-Language-Models-of-Code-for-Automated-Program)
-4. **Conversational Automated Program Repair.**  arxiv. [[pdf]](https://arxiv.org/abs/2304.00385)
+1. **A Deep Dive into Large Language Models for Automated Bug Localization and Repair.** FSE 2024.[[pdf]](https://doi.org/10.1145/3660773)
+2.  **Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors.** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2306.01394)
+3. **Automated Program Repair in the Era of Large Pre-trained Language Models.** `LLM for APR` ICSE 2023. [[pdf]](https://arxiv.org/abs/2210.14179)
+4. **An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair.** ASE 2023 [[pdf]]()[[slides]](https://conf.researchr.org/details/ase-2023/ase-2023-papers/98/An-Empirical-Study-on-Fine-tuning-Large-Language-Models-of-Code-for-Automated-Program)
+5. **Conversational Automated Program Repair.**  arxiv. [[pdf]](https://arxiv.org/abs/2304.00385)
 
 ### 1.3 Automated Bug Replay
 
 1. **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models.** `S2R Identification, UI Encoding` ICSE 2024. [[pdf]](https://arxiv.org/abs/2306.01987)
 
 ### 1.4 Root Cause Analysis and Fault Management
-1. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]]()
-2. **Automatic Root Cause Analysis via Large Language Models for Cloud Incidents** Eurosys 2024. [[pdf]](https://arxiv.org/pdf/2305.15778.pdf) 
-3. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
+1. **A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization.** FSE 2024. [[pdf]](https://coinse.github.io/publications/pdfs/Kang2024ay.pdf)
+2. **Xpert: Empowering Incident Management with Query Recommendations via Large Language Models.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2312.11988)
+3. **Automatic Root Cause Analysis via Large Language Models for Cloud Incidents** Eurosys 2024. [[pdf]](https://arxiv.org/pdf/2305.15778.pdf) 
+4. **Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.** `Fine-Tuning, Maintainer Interview` ICSE 2023. [[pdf]](https://arxiv.org/abs/2301.03797)
 
 ### 1.5 Code Summary
 1. **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation.** `Code Intent Summary, Retrieval-based Prompting` ICSE 2024. [[pdf]](http://arxiv.org/abs/2304.11384)
 2. **Using an LLM to Help With Code Understanding** ICSE 2024. [[pdf]]()
 
-### 1.6 Code Quality Assuranc
+### 1.6 Code Quality Assurance
 
 1. **Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2308.03109)
 2. **Traces of Memorisation in Large Language Models for Code.** ICSE 2024. [[pdf]]()
@@ -87,12 +92,24 @@ A curated list of Large Language Model for Software Engineering and Security pap
 
 ### 1.8 Code Generation
 
-1. **Evaluating Large Language Models in Class-Level Code Generation.** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2308.01861.pdf)
+1. **ClarifyGPT: A Framework for Enhancing LLM-based Code Generation via Requirements Clarification.** FSE 2024. [[pdf]](https://arxiv.org/abs/2310.10996)
+2. **DiffCoder: Enhancing Large Language Model on API Invocation via Analogical Code Exercises.** FSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3643745)
+
+3. **Evaluating Large Language Models in Class-Level Code Generation.** ICSE 2024. [[pdf]](https://arxiv.org/pdf/2308.01861.pdf)
 
 ### 1.9 Log Analysis
 
-1. **LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing.** ICSE 2024. [[pdf]]()
-2. **UniLog: Automatic Logging via LLM and In-Context Learning** ICSE 2024. [[pdf]]()
+1. **LILAC: Log Parsing using LLMs with Adaptive Parsing Cache.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2310.01796)
+2. **LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing.** ICSE 2024. [[pdf]](https://arxiv.org/abs/2404.18001)
+3. **UniLog: Automatic Logging via LLM and In-Context Learning** ICSE 2024. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)
+
+### 1.10 Formalization
+
+1. **Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?** FSE 2024. [[pdf]](https://arxiv.org/abs/2310.01831)
+
+### 1.11 Maintenance
+
+1. **Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model** FSE 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3643760)
 
 
 ## 2. Security Papers
